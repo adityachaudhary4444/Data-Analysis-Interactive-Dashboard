@@ -20,13 +20,6 @@ To analyze Zomato’s global restaurant dataset to uncover patterns in geographi
 -USA(4.54%) and UK(0.84%) demonstrate early signs of feature traction,making them prime candidates for localized feature scaling.
 -Markets like Canada(0.04%) & Australia(0.25%)  reflect either a lack of promotion or market misfit.
 -Uniform booking percentages like Qatar,Sri Lanka &Singapore(each 0.21%) point to low user adoption   likely due to limited visibility.
--Low market penetration in emerging region like Indonesia(0.22%) & the Phillipines  present first-mover advantage. 
--Sril Lanka with an average cost of ~2,375,suggest high-end dining options With 35,350 as the total average cost just across 22 restaurants,indicates a market with fewer but likely upscale or premium-prices        restaurants.
--South Africa has the largest restaurant network(60),despite this average cost per restaurant(~419.73)  is moderate.
--Canada has the lowest total average cost(145) & the lowest average cost per restaurant(~36.25).
--Qatar(~223.75) & Turkey(~84.85)  fall in mid-range for average cost per restaurant,suggesting moderately priced dining options.
--With (40) restaurant & an average cost of(~69.75) per restaurant New Zealand reflects a balanced dining scene.
-
 
 ##CONCLUSION
 -Market Penetration  across various countries like South Africa & New Zealand show high restaurant counts,indicating broad market presence.
