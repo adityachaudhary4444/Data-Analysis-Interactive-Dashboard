@@ -9,7 +9,7 @@ To analyze Zomato’s global restaurant dataset to uncover patterns in geographi
 - How many categorical columns are there in the data? 
 - The data consists of some inconsistent and missing values so ensure that the data used for further analysis is cleaned.
 - Using the LookUp functions, fill up the countries in the original data using the country code.
--Create a table to represent the number of restaurants opened in each country.
+ -Create a table to represent the number of restaurants opened in each country.
 
 ## DASHBOARD
 ![dashboard](https://github.com/user-attachments/assets/318f1abb-b1f8-4281-ad79-c8c9344c3d78)
